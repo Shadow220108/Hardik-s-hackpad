@@ -1,7 +1,7 @@
 # Hardik's-hackpad
 Its my personal hackpad made with the help of hack club 
 
-🛠️ Hardware Bill of Materials (BOM)
+🛠️ Hardware Bill of Materials (BOM)/n
 Seeed XIAO RP2040 x1
 Through-hole 1N4148 Diodes x8
 MX-Style switches x8
