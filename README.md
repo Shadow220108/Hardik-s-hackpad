@@ -1,6 +1,18 @@
 # Hardik's-hackpad
 Its my personal hackpad made with the help of hack club 
 
+# This will be the design of my hackpad/macropad  
+![macropad](cad/hardiks_macropad_cad.png)  
+
+# These are the bottom and top cases  
+![cases](cad/case.png)  
+
+# This is the schematic  
+![schematic](pcb/schematic.png)  
+
+# This is the PCB  
+![pcb](pcb/pcb.png)  
+
 🛠️ Hardware Bill of Materials (BOM)  
 Seeed XIAO RP2040 x1  
 Through-hole 1N4148 Diodes x8  
