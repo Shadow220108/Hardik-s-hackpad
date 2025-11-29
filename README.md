@@ -2,7 +2,7 @@
 Its my personal hackpad made with the help of hack club 
 
 # This will be the design of my hackpad/macropad  
-![macropad](cad/https://github.com/Shadow220108/Hardik-s-hackpad/blob/main/cad/hardiks%20macropad%20cad.png?raw=true)  
+![macropad](<cad/hardiks macropad cad.png>)  
 
 # These are the bottom and top cases  
 ![cases](cad/case.png)  
